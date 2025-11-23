@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add 2 problems">
+    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add FIB, GC">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/complementing-a-strand-of-dna.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/complementing-a-strand-of-dna.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/ini1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/ini1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/ini2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/ini2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763874677948</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: add FIB, GC">
+      <option name="closed" value="true" />
+      <created>1763880001722</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763880001722</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +139,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Test commit 1:11" />
     <MESSAGE value="feat: add 2 problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add 2 problems" />
+    <MESSAGE value="feat: add FIB, GC" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add FIB, GC" />
   </component>
 </project>
