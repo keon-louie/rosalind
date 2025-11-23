@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="Test commit 1:11">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add 2 problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/ini1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/ini1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/complementing-a-strand-of-dna.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/complementing-a-strand-of-dna.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/ini1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/ini1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/ini2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/ini2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,15 +52,21 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/louie/PycharmProjects/rosalind"
+    "last_opened_file_path": "C:/Users/louie/PycharmProjects/rosalind/problem-sets/bioinformatics-stronghold/problem_files"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\louie\PycharmProjects\rosalind\problem-sets\bioinformatics-stronghold\problem_files" />
+      <recent name="C:\Users\louie\PycharmProjects\rosalind\problem-sets\bioinformatics-stronghold\solutions" />
       <recent name="C:\Users\louie\PycharmProjects\rosalind" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\louie\PycharmProjects\rosalind\problem-sets\bioinformatics-stronghold\solutions" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -101,12 +108,32 @@
       <option name="project" value="LOCAL" />
       <updated>1763845898666</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: add 2 problems">
+      <option name="closed" value="true" />
+      <created>1763874677948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763874677948</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Test commit 1:11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test commit 1:11" />
+    <MESSAGE value="feat: add 2 problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add 2 problems" />
   </component>
 </project>
