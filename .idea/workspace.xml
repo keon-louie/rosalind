@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add FIB, GC">
+    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add HAMM, IPRB, PROT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/IPRB.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/IPRB.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/PROT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/PROT.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763880001722</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: add HAMM, IPRB, PROT">
+      <option name="closed" value="true" />
+      <created>1763882796829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763882796829</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +150,7 @@
     <MESSAGE value="Test commit 1:11" />
     <MESSAGE value="feat: add 2 problems" />
     <MESSAGE value="feat: add FIB, GC" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add FIB, GC" />
+    <MESSAGE value="feat: add HAMM, IPRB, PROT" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add HAMM, IPRB, PROT" />
   </component>
 </project>
