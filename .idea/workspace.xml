@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add HAMM, IPRB, PROT">
+    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: update CONS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/IPRB.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/IPRB.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/PROT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/PROT.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,17 +46,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/louie/PycharmProjects/rosalind/problem-sets/bioinformatics-stronghold/problem_files"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/louie/PycharmProjects/rosalind/problem-sets/bioinformatics-stronghold/problem_files&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\louie\PycharmProjects\rosalind\problem-sets\bioinformatics-stronghold\problem_files" />
@@ -131,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763882796829</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: add SUBS, CONS">
+      <option name="closed" value="true" />
+      <created>1763934509313</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763934509313</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: update CONS">
+      <option name="closed" value="true" />
+      <created>1763934695860</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763934695860</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +166,8 @@
     <MESSAGE value="feat: add 2 problems" />
     <MESSAGE value="feat: add FIB, GC" />
     <MESSAGE value="feat: add HAMM, IPRB, PROT" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add HAMM, IPRB, PROT" />
+    <MESSAGE value="feat: add SUBS, CONS" />
+    <MESSAGE value="feat: update CONS" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update CONS" />
   </component>
 </project>
