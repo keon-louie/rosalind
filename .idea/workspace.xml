@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add PPER, PERM">
+    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add LIA, SPLC">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/PPER.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/PPER.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/HAMM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/HAMM.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764060071445</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: add LIA, SPLC">
+      <option name="closed" value="true" />
+      <created>1764186136413</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764186136413</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +194,7 @@
     <MESSAGE value="feat: update CONS" />
     <MESSAGE value="feat: add IEV, MRNA, PRTM" />
     <MESSAGE value="feat: add PPER, PERM" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add PPER, PERM" />
+    <MESSAGE value="feat: add LIA, SPLC" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add LIA, SPLC" />
   </component>
 </project>
