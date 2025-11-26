@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add IEV, MRNA, PRTM" />
+    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add PPER, PERM">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/PPER.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/PPER.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764057185551</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: add PPER, PERM">
+      <option name="closed" value="true" />
+      <created>1764060071445</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764060071445</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +185,7 @@
     <MESSAGE value="feat: add SUBS, CONS" />
     <MESSAGE value="feat: update CONS" />
     <MESSAGE value="feat: add IEV, MRNA, PRTM" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add IEV, MRNA, PRTM" />
+    <MESSAGE value="feat: add PPER, PERM" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add PPER, PERM" />
   </component>
 </project>
