@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: add TRAN">
+    <list default="true" id="20b84076-0670-4afb-a559-9b6724695809" name="Changes" comment="feat: rename FIBD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/CONS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/FIBD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/CONS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem-sets/bioinformatics-stronghold/solutions/CONS.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +178,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764197900113</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: add CONS, rename FIBD">
+      <option name="closed" value="true" />
+      <created>1764200824059</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764200824059</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: rename FIBD">
+      <option name="closed" value="true" />
+      <created>1764200833071</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764200833071</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +220,8 @@
     <MESSAGE value="feat: add PPER, PERM" />
     <MESSAGE value="feat: add LIA, SPLC" />
     <MESSAGE value="feat: add TRAN" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add TRAN" />
+    <MESSAGE value="feat: add CONS, rename FIBD" />
+    <MESSAGE value="feat: rename FIBD" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: rename FIBD" />
   </component>
 </project>
