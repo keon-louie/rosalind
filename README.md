@@ -1,3 +1,5 @@
-This is a repo for rosalind projects. \
+This is a repo for my solutions rosalind problems solved in Python. \
 Leetcode for bioinformatics & computational biology. \
-View my profile here: https://rosalind.info/users/keon-louie
+Solutions for each topic are found in /solutions.
+
+View my profile here: https://rosalind.info/users/keon-louie.
